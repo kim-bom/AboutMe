@@ -1,2 +1,5 @@
 #My Name is Bom
-Food: Tomyamkong
+
+Food: Tomyamkoong
+Address: Bangkok
+Job : Engineer
